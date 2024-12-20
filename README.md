@@ -38,7 +38,8 @@
 # Clone the Repository
 git clone https://github.com/yourusername/hand-gesture-volume-control.git
 cd hand-gesture-volume-control
-📦 Install Dependencies
+---
+##📦 **Install Dependencies**
 Make sure you have Python installed and then install the required libraries:
 
 bash
