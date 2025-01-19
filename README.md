@@ -29,3 +29,11 @@ To get started, you’ll need Python installed on your system. You can install t
    ```bash
    git clone https://github.com/yourusername/Hand-Gesture-Volume-Control.git
    cd Hand-Gesture-Volume-Control
+   📧 Contact
+Feel free to reach out if you have any questions, suggestions, or contributions:
+
+📧 Email: nimmanirishik@gmail.com
+🔗 LinkedIn: linkedin.com/in/nimmani-rishik-66b632287
+🐱 GitHub: github.com/yourusername
+📷 Instagram: @rishik_3142
+
